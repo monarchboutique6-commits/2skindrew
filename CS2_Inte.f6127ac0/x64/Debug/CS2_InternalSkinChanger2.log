@@ -1,0 +1,46 @@
+﻿  dllmain.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\dllmain.cpp(407,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui.cpp(2304,10): error C2006: "#include": требуется "FILENAME" или <FILENAME>.
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui.cpp(3153,9): warning C4005: va_copy: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui.cpp(3151,9):
+      см. предыдущее определение "va_copy"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui.cpp(18393,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_demo.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(192,9): warning C4005: IM_NEWLINE: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(190,9):
+      см. предыдущее определение "IM_NEWLINE"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(208,9): warning C4005: PRId64: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(205,9):
+      см. предыдущее определение "PRId64"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(209,9): warning C4005: PRIu64: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(206,9):
+      см. предыдущее определение "PRIu64"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(226,9): warning C4005: IMGUI_CDECL: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(224,9):
+      см. предыдущее определение "IMGUI_CDECL"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_demo.cpp(11215,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_draw.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_draw.cpp(134,10): error C2006: "#include": требуется "FILENAME" или <FILENAME>.
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_draw.cpp(159,10): error C2006: "#include": требуется "FILENAME" или <FILENAME>.
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_draw.cpp(6810,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_impl_dx11.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_impl_dx11.cpp(693,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_impl_win32.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_impl_win32.cpp(1009,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_tables.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_tables.cpp(4712,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  imgui_widgets.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\imgui\imgui_widgets.cpp(10993,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  kiero.cpp
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\kiero\kiero.cpp(40,10): warning C4005: KIERO_TEXT: изменение макроопределения
+      C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\kiero\kiero.cpp(38,10):
+      см. предыдущее определение "KIERO_TEXT"
+  
+C:\Users\makcu\OneDrive\Рабочий стол\drewskins\CS2_InternalSkinChanger2\kiero\kiero.cpp(720,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Создание кода...
